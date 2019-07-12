@@ -1,1 +1,0 @@
-# bedoya-daniel.github.io
