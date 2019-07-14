@@ -8,6 +8,8 @@ I am a researcher / sound engineer/ teacher / music lover / gamer from Quito-Ecu
 ### Work experience
 I work as a researcher with the Perception and Sound Design Team ([PDS](https://www.ircam.fr/recherche/equipes-recherche/pds/)) at IRCAM.
 
+### Research statement
+* [Research](/research_statement/)
 
 ### Publications:
 * LE CARROU, J.L., BEDOYA, D., MIFUNE, M. F., & LE BOMIN, S. _Acoustique des harpes d'Afrique centrale : étude préliminaire_. Congrès Français d'Acoustique CFA - Le Havre 2018. [pdf](https://www.conforg.fr/cfa2018/output_directory2/data/articles/000307.pdf)
