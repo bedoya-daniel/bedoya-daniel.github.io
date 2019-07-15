@@ -1,5 +1,4 @@
 ---
-layout: single
 permalink: /research_statement/
 author_profile: false
 share: false
