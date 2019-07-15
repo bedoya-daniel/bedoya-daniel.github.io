@@ -1,3 +1,13 @@
+---
+layout: single
+permalink: /research_statement/
+author_profile: false
+share: false
+comments: false
+sidebar:
+  nav: "research_statement"
+---
+
 ## Research statement
 
 Here, I will describe my most recent work, which has gravitated around topics such as musical acoustics, music-speech perception and audio signal processing.
