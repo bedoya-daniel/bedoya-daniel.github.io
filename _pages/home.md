@@ -1,3 +1,9 @@
+---
+layout: single
+permalink: /
+author_profile: true
+---
+
 # Daniel BEDOYA
 
 This is my personal website. It was built as a complement to my CV and to highlight some ideas and projects that I'm working on (it's still under construction).
