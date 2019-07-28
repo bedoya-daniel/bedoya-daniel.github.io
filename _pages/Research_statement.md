@@ -15,7 +15,7 @@ Here, I will describe my most recent work, which has gravitated around topics su
 
 As a part of the multidisciplinary project ‘Kundi’, we determined the acoustical properties of three harps of different Gabon ethnicities. Our main objective was to find descriptors which would allow the better understanding of their vibrational behavior, taking into account that researchers are often unable to study these type of instruments in playing conditions. This work explored three perspectives on the issue: First, an experimental modal analysis using the Least-Squares Complex Frequency-domain (LSCF) estimator and transfer function smoothing algorithms. Second, the analysis of the acceleration signals frequency responses. Third, a mobility measurement for all the strings of each harp. As a result of this approach, we found not only differences in the mean mobility and modal frequencies between harps with similar physical dimensions, but also an apparent non-linear behavior that suggests the harps mobility is influenced by the unconventional materials and techniques employed by the instrument maker. 
 
-Internship Report [pdf ![](../images/pdf.png)](/documents/Bedoya_D_Acoustique_des_harpes_d_Afrique_Centrale.pdf)
+*Internship Report:* [(pdf)![](../images/pdf.png)](/documents/Bedoya_D_Acoustique_des_harpes_d_Afrique_Centrale.pdf)
 
 # Emotional vocal cues applied to music
 
