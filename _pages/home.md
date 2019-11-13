@@ -33,6 +33,6 @@ I work as a researcher with the Perception and Sound Design Team ([PDS](https://
 
 ### Contact information
 
-[daniel.bedoya@ircam.fr](mailto:daniel.bedoya@ircam.fr)
+daniel.bedoya [at] ircam.fr
 
 STMS UMR 9912 (IRCAM/CNRS/Sorbonne Université)
