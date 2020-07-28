@@ -97,10 +97,11 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Bedoya"
-  avatar           : "Photo_Daniel_B.png"
+  avatar           : "../images/Photo_Daniel_B.png"
   bio              : "Research engineer at IRCAM"
   location         : "Paris"
   email            : "bedoya.daniel@ircam.fr"
+  facebook         : "daniel.bedoya.r"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

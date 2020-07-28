@@ -11,7 +11,7 @@ This is my personal website. It was built as a complement to my CV and to highli
 I am a researcher / sound engineer/ teacher / music lover / gamer from Quito-Ecuador, currently living in Paris-France.
 
 ### Work experience
-I'm currently working on my PhD as a researcher with the Musical Representations Team ([RepMus](https://www.ircam.fr/recherche/equipes-recherche/repmus/)) at IRCAM.
+I'm currently working on my PhD as a researcher on the [COSMOS](https://cosmos.ircam.fr/) project, with the Musical Representations Team ([RepMus](https://www.ircam.fr/recherche/equipes-recherche/repmus/)) at IRCAM.
 
 ### Research statement
 * [Research statement](/research_statement/)
