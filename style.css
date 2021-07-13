@@ -1,8 +1,8 @@
 /* STYLE PAGE */
 /* Default values set as CSS variables */
 :root {
-  --color-bg: #ffffff;
-  --color-text-main: #000000;
+  --color-bg: #2c2b2a;
+  --color-text-main: #fffff0;
   --color-primary: #FFFF00;
   --main-width: 50%;
   --wrapper-height: 87vh;
@@ -10,6 +10,20 @@
   --image-margin: 3rem;
   --font-family: sans-serif;
   --font-family-header: sans-serif;
+}
+
+/* Links */
+a:link {
+  color: #0099cd; /* unvisited link */
+}
+a:visited {
+  color: #5b74cc; /* visited link */
+}
+a:hover {
+  color: #8ebf42; /* mouse over link */
+}
+a:active {
+  color: #cd3400; /* selected link */
 }
 
 .footer {
@@ -37,7 +51,7 @@
 
 body {
   font-family: var(--font-family);
-  color: var(color-text-main);
+  color: var(--color-text-main);
   background-color: var(--color-bg);
 }
 
@@ -73,10 +87,9 @@ input {
 }
 
 .siteWelcomeDiv {
-  /* background-color: #00008025; */
   width: var(--main-width);
   padding: 2%;
-  border: solid 2px black;
+  border: solid 6px #bec8d1;
   border-radius: 10px;
   margin-bottom: 2%;
   text-align: center;
@@ -90,11 +103,10 @@ input {
 }
 
 .siteAccess {
-  background-color: #f3f3f3;
-  /*background-color: #80000025;*/
+  background-color: #444444;
   width: var(--main-width);
   padding: 1%;
-  border: solid 1px black;
+  border: solid 6px #bec8d1;
   border-radius: 10px;
   text-align: center;
   /*margin-top: 200px;*/
