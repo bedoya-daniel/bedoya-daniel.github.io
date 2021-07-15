@@ -76,6 +76,13 @@ input {
   border-radius: 6px;
 }
 
+.logoImages
+{
+width:100px;
+height:100px;
+padding: 10px 0px;
+}
+
 .mainDiv {
   padding: 2%;
   display: flex;
