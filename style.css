@@ -45,6 +45,22 @@ a:active {
   white-space: nowrap;
 }
 
+.avatar{
+  width: 100px;
+  height: 100px;
+  background-image: url("/images/Photo_Daniel_B.png");
+/*   background-position: -25px -20px; */
+  border-radius: 50%;
+  background-size: cover;
+  margin: 10px;
+}
+
+.firstLine{
+  display: flex;
+  align-items:center;
+  justify-content:center;
+}
+
 .divider {
   padding: 0 1rem;
 }
