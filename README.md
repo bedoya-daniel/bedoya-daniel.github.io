@@ -1,16 +1,12 @@
 # Daniel BEDOYA
 
-Personal website to showcase different ideas and projects (SITE UNDER CONSTRUCTION)
-
----
-All html and css are coded by hand and thus the code is prone to bugs
----
+Personal static website to showcase different ideas and projects
 
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) 2016 Michael Rose
+Copyright (c) 2021 Daniel Bedoya
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -29,3 +25,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+> _All html, css and javascript are coded by hand. It's a personal choice_
