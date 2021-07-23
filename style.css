@@ -71,6 +71,13 @@ body {
   background-color: var(--color-bg);
 }
 
+.bodyText {
+  width: var(--main-width);
+  padding: 1%;
+  text-align: center;
+  /*margin-top: 200px;*/
+}
+
 button,
 input {
   font-family: inherit;
@@ -116,13 +123,6 @@ padding: 15px 0px;
   border-radius: 10px;
   margin-bottom: 2%;
   text-align: center;
-}
-
-.bodyText {
-  width: var(--main-width);
-  padding: 1%;
-  text-align: center;
-  /*margin-top: 200px;*/
 }
 
 .siteAccess {
