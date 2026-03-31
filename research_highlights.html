@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+  <link rel="icon" type="image/x-icon" href="/icons/person_icon.ico">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daniel B. - Research highlights</title>
+</head>
+<body class="d-flex flex-column min-vh-100">
+  <header class="p-3 mb-3 border-bottom">
+    <div class="container">
+      <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start"> 
+          <a href="/" class="d-flex align-items-center mb-2 mb-lg-0 link-body-emphasis text-decoration-none">
+            <svg class="bi me-2" width="40" height="32" role="img" aria-label="Bootstrap">
+              <use xlink:href="#bootstrap"></use>
+            </svg>
+          </a>
+          <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+              <li><a href="index.html" class="nav-link px-2 link-body-emphasis"><i class="bi bi-house"></i></a></li>
+              <li><a href="about.html" class="nav-link px-2 link-body-emphasis">About</a></li>
+              <li><a href="cv.html" class="nav-link px-2 link-body-emphasis">Résumé (CV)</a></li>
+              <li><a href="#" class="nav-link px-2 link-secondary">Research highlights</a></li>
+              <li><a href="publications.html" class="nav-link px-2 link-body-emphasis">Publications</a></li>
+              <li><a href="teaching.html" class="nav-link px-2 link-body-emphasis">Teaching</a></li>
+          </ul>
+          <!-- <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
+            <input type="search" class="form-control" placeholder="Search..." aria-label="Search">
+          </form> <div class="dropdown text-end"> -->
+          <!-- <a href="#" class="d-block link-body-emphasis text-decoration-none dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+            <img src="https://github.com/mdo.png" alt="mdo" width="32" height="32" class="rounded-circle">
+          </a>
+          
+          <ul class="dropdown-menu text-small" style="">
+              <li><a class="dropdown-item" href="#">New project...</a></li>
+              <li><a class="dropdown-item" href="#">Settings</a></li>
+              <li><a class="dropdown-item" href="#">Profile</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="#">Sign out</a></li>
+          </ul> -->
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="p-5 mb-3">
+  <div class="container-fluid">
+    <h1 class="text-center mb-5"><i class="bi bi-flask"></i> Research Highlights</h1>
+  </div>
+
+  <div style="grid-template-columns: 1fr;" class="d-grid gap-5">
+
+    <div class="container-md">
+      <h2>Annotations through the CosmoNote platform</h2>
+
+      <div class="text-center">
+        <figure class="figure">
+          <img src="figures/Fur_Elise_annotated_example.svg" class="figure-img img-fluid rounded" alt="Fur Elise annotated example">
+          <figcaption class="figure-caption text-end">Für Elise annotated example.</figcaption>
+        </figure>
+      </div>
+      
+      <p>CosmoNote is a web-based, highly customizable annotation platform created in the context of the <a href="https://cosmos.isd.kcl.ac.uk/">COSMOS</a> ERC project  to engage in a large-scale collection of annotations and explorations of performed music, by applying the principles of citizen science to obtain high-quality annotation data for music expressivity.</p>
+      <p>The annotation platform rests on four main pillars: its representations and visualizations (how annotators first encounter the music), its annotation types (the core communication channel connecting annotators and researchers), its intuitiveness (taking inspiration from familiar controls and interface), and its interactivity (e.g., zooming, selecting, editing, filtering).</p>
+      <p>By analyzing the annotations collected with CosmoNote, we aimed to model and analyze performance decisions in order to aid in the understanding of expressive choices in musical performances and discover the vocabulary of performed musical structures.</p>
+    
+
+      <div class="container text-center">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            <b>PhD manuscript:</b>
+          </div>
+          <div class="col-auto">
+            <a href="https://theses.fr/2023SORUS698", target="_blank"><i class="bi bi-link-45deg"></i></a>
+          </div>
+          <div class="col-auto">
+            Capturing Musical Prosody Through Interactive Audio/Visual Annotations
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-md">
+      <h2>Facial and linguistic emotional feedback</h2>
+
+      <div class="text-center">
+        <figure class="figure">
+          <img src="figures/SpeedDating.svg" style="width: 350px;" class="figure-img img-fluid rounded" alt="Dyadic interactions">
+          <figcaption class="figure-caption text-end">Dyadic interactions experimental protocol.</figcaption>
+        </figure>
+      </div>
+      
+      <p>The ANR project <a href="https://www.ircam.fr/projects/pages/reflets/">REFLETS</a> studies the cognitive mechanisms involved in audiovisual feedback taking place on interactions with a mirror (where a subject hears and sees himself smiling) or with someone else (where the interlocutor can hear and see the first party smiling). We were working with real-time algorithms capable to learn a subject's facial features and vocal properties in order to transform the image and the sound on the output, notably in the form of a smile or a frown. This can be applied to an interactive paradigm in which dyads of participants have conversations with one another, while their voice and face is digitally modified to be more smiling, and test the effect that these cues have on various outcomes of the conversation. The main programming environments used for this task are Python and Max MSP.</p>
+    </div>
+
+    <div class="container-md">
+      <h2>Emotional vocal cues applied to music</h2>
+
+      <div class="text-center">
+        <figure class="figure">
+          <img src="figures/Violins_can_cry.jpg" style="width: 350px;" class="figure-img img-fluid rounded" alt="Transformations">
+          <figcaption class="figure-caption text-end">Emotional transformations on a violin.</figcaption>
+        </figure>
+      </div>
+      
+      <p>This project explored whether musical emotions are perceived using the same acoustical cues as in speech. While this relationship has been thoroughly studied, there did not exist an experimental setup to manipulate music and speech equally. First, based on distinct signal processing algorithms (<a href="http://forumnet.ircam.fr/product/david/">DAVID</a>, <a href="https://github.com/Pablo-Arias/STIM">ZIGGY</a>, <a href="http://forumnet.ircam.fr/product/angus/">ANGUS</a>), we selected and applied the following modifications on three perceptual dimensions: pitch (upwards, downwards and vibrato), spectral envelope (upwards and downwards) and roughness (amplitude modulation with generated subharmonics). We transformed 12 scream samples, the main vocals of 14 stem files, 14 recorded instrumental melodies and 14 recorded sentences. The stimuli were arranged into musical (melodies with and without musical background) and non-musical (speech, screams) conditions. Sixty-six participants listened to pairs of opposite transformations, and evaluated their perceived valence and arousal. The results validate the previous work done by the team concerning emotional speech and they indicate a link between acoustical properties and emotional perception in music. The effects were statistically significant throughout every acoustical transformation, even when applied to instrumental music.</p>
+      
+      <div class="container text-center">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            <b>Master's manuscript:</b>
+          </div>
+          <div class="col-auto">
+            <a href="http://www.atiam.ircam.fr/Archives/Stages1718/BEDOYA_Daniel_Memoire_Stage.pdf", target="_blank"><i class="bi bi-link-45deg"></i></a>
+          </div>
+          <div class="col-auto">
+            <em>Les émotions sont-elles exprimées en musique de la même façon que dans la voix parlée ?</em>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-md">
+      <h2>Acoustics of central African harps</h2>
+
+      <div class="text-center">
+        <figure class="figure">
+          <img src="figures/Harps.jpg" style="width: 350px;" class="figure-img img-fluid rounded" alt="Gabon Harps">
+          <figcaption class="figure-caption text-end">African harps: Tsogho, Fang, Massango.</figcaption>
+        </figure>
+      </div>
+      
+      <p>As a part of the multidisciplinary project 'Kundi', we determined the acoustical properties of three harps of different Gabon ethnicities. Our main objective was to find descriptors which would allow the better understanding of their vibrational behavior, taking into account that researchers are often unable to study these type of instruments in playing conditions. This work explored three perspectives on the issue: First, an experimental modal analysis using the Least-Squares Complex Frequency-domain (LSCF) estimator and transfer function smoothing algorithms. Second, the analysis of the acceleration signals frequency responses. Third, a mobility measurement for all the strings of each harp. As a result of this approach, we found not only differences in the mean mobility and modal frequencies between harps with similar physical dimensions, but also an apparent non-linear behavior that suggests the harps mobility is influenced by the unconventional materials and techniques employed by the instrument maker.</p>
+      
+      <div class="container text-center">
+        <div class="row align-items-center">
+          <div class="col-auto">
+            <b>Master's manuscript:</b>
+          </div>
+          <div class="col-auto">
+            <a href="documents/Bedoya_D_Acoustique_des_harpes_d_Afrique_Centrale.pdf", target="_blank"><i class="bi bi-link-45deg"></i></a>
+          </div>
+          <div class="col-auto">
+            <em>Acoustique des harpes d'Afrique centrale</em>
+          </div>
+        </div>
+      </div>
+    
+    </div>
+
+  </div>
+  </main>
+
+    <footer class="mt-auto border-top py-3">
+    <div class="container">
+      <p class="text-center text-body-secondary"> &copy; Daniel Bedoya - Updated on April 2026</p>
+    </div>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+</body>
+</html>
