@@ -15,6 +15,11 @@ html {
   height:1.5rem;
 }
 
+.profile-image {
+  width: 120px;
+  height: 120px;
+}
+
 /* ################# */
 /* ##### LINKS ##### */
 /* ################# */
