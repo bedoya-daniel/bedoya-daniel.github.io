@@ -1,3 +1,7 @@
 # Daniel BEDOYA
 
-This page now redirects to my personal website hosted at Notion
+Hi, this repository hosts my personal website.
+
+To view the live version, go to:
+
+[https://bedoya-daniel.github.io/](https://bedoya-daniel.github.io/)
