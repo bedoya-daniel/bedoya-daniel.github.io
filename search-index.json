@@ -1,72 +1,198 @@
 [
   {
-    "title": "About | DBR",
-    "url": "about.html",
-    "headings": [
-      "About",
-      "Short bio (en)"
-    ],
-    "content": "About Short bio (en) Daniel Bedoya is a teacher/researcher with experience in music perception, acoustics, and data analysis. He conducted his doctoral research studying annotations of performed piano music through the musical prosody paradigm to explore structures in music performance. Originally from Ecuador, Daniel got his undergraduate degree in Sound and Acoustics Engineering at Universidad de las Américas (UDLA) in Quito. After working as an acoustic engineer, he obtained a Master's in higher education at ESPE. He taught at UDLA Quito from 2013 to 2016. Then, he moved to France, earning a Master's degree in computer science, acoustics, and signal processing (ATIAM) at Sorbonne Université and the Institut de Recherche et Coordination Acoustique/Musique (IRCAM). Interested in the disciplines of music perception and cognition, he has worked with the Perception and Sound Design (PDS) research team at IRCAM, looking at the relationship of music and emotions in the ERC project CREAM and exploring the influence of smiled speech perception in dyadic interactions in the REFLETS project, both under the supervision of Jean-Julien Aucouturier. In 2019, Daniel joined the ERC AdG project COSMOS and the Musical Representations (RepMus) research team at IRCAM as a doctoral student under the supervision of Elaine Chew, where he collaborated with a team exploring music structures shaped in performance through their analysis and manipulation. In his doctoral research, Daniel designed a citizen science annotation protocol and laboratory experiments to help understand musical structures created in performance. In addition, he analyzed the annotator's perception of musical structures with the CosmoNote web-based annotation platform. In 2022, Daniel joined the Conservatoire National des Arts et Métiers (CNAM) as a Temporary Teaching and Research Associate (ATER), where he completed his doctoral research and joined the teaching team. More specifically, his teaching work focused on acoustics and signal processing in four programs: the State Diploma in Audioprosthetics (CPDA), the Engineering Diploma in Aeronautics and Space (Aero), open distance learning (FOAD), and the French Institute of Industrial Refrigeration and Climatic Engineering (IFFI). From 2024 to 2026, Daniel was a postdoctoral researcher at the GERiiCO lab (University of Lille), working on data analysis for algorithmic fairness in music streaming platforms as part of the Fair MusE Horizon Europe project, assessing the equity and diversity of music streaming platforms by analyzing a large database of donated listening history events from users of the major music streaming platforms (Spotify, Apple Music, and YouTube Music). Since 2025, Daniel has worked as a part-time lecturer with the Faculty of Societies and Humanities at Université Paris Cité. He's taught courses related to web technologies in the UFR EILA (Department of Intercultural Studies and Applied Languages) for the Multilingual Technical Writing and Information Design (ReDDI) professional bachelor's and the Multilingual Technical Communication and User Experience (ComTEx) master's degree track."
+    "page": "About",
+    "title": "About",
+    "parent": "",
+    "url": "about.html#about",
+    "content": ""
   },
   {
-    "title": "Résumé (CV) | DBR",
-    "url": "cv.html",
-    "headings": [
-      "Résumé (CV)",
-      "Work Experience",
-      "Education",
-      "Teaching",
-      "Selected publications",
-      "Skills",
-      "Languages"
-    ],
-    "content": "Résumé (CV) Work Experience 2024-2026 Postdoctoral researcher - Fair MusE Project Gériico Laboratory, University of Lille 2022-2024 Assistant lecturer and researcher (ATER) Conservatoire national des arts et métiers (CNAM) LMSSC Laboratory 2019-2022 Doctoral contract ERC AdG COSMOS Project UMR9912-STMS Laboratory (IRCAM, SU, CNRS) 2018-2019 Research engineer Perception and Sound Design team (PDS), IRCAM 2018 (02-06) Research internship: Are musical emotions expressed in the same way as in speech? Perception and Sound Design team (PDS), IRCAM 2017 (05-07) Research internship: Acoustics of central African harps (Kundi project) Lutheries-Acoustique-Musique (LAM), Institut Jean le Rond d'Alembert 2013-2016 Assistant lecturer - Advanced Technical Degree in Recording and Music Production Universidad de Las Américas, Quito 2011-2013 Acoustical engineer Tecnologías acústicas del Ecuador S.A. (Tecnoakustiks) Education 2019-2023 PhD - Information and Communication Sciences STMS-UMR9912 Laboratory (IRCAM, Sorbonne Université, CNRS) Research topic: Representation and analysis of musical structure annotations Supervisor: Pr. Elaine Chew (KCL). Defense: October 2023 2017-2018 Master 2 - ATIAM (Acoustics, Signal processing and Computer Science applied to Music) Sorbonne Université, IRCAM, Télécom ParisTech 2016-2017 Master 1 - Engineering sciences, specializing in acoustics Sorbonne Université (previously Université Pierre et Marie Curie “UPMC”) 2013-2016 Master in Higher Education Universidad de las Fuerzas Armadas ESPE, Sangolquí—Ecuador 2006-2011 Sound and Acoustics Engineering Universidad de Las Américas (UDLA), Quito—Ecuador Teaching Date Institution Courses 2025-2026 Université Paris Cité LE4AE055 - Technologies du Web CH29E075 - Langages Numériques CH29E095 - Projet tutoré 3 2022-2024 Conservatoire national des arts et métiers USAE1H - Introduction à l'Acoustique US462E - Physique 3, Traitement du Signal Audionumérique US4619 - Physique 2, Électroacoustique US4618 - Physique 2, Acoustique des Salles US4613 - Physique 1, Acoustique ACC115 - Travaux Pratiques d'Acoustique ACC117 - Psychouacoustique et acoustique des instruments de musique ACC110 - Acoustique des salles et sonorisation UTC403 - Introduction à la physique des vibrations et des ondes USFI0E - Acoustique appliquée 2021-2022 Sorbonne Université LU1IN001 - Élements de Programmation I 2013-2016 Universidad de Las Américas Quito TGP210 | ACUS1010 - Principios de Acústica TGP120 | AUDI1110 - Principios de Electrotecnia TGP310 | ACUS1110 - Acústica Aplicada For more details, go to: Teaching Selected publications Bedoya, D. Fyfe, L., & Chew, E. (2025). Science of music-based citizen science: How seeing influences hearing. PLoS One 20(9): e0325019. doi: 10.1371/journal.pone.0325019 Fyfe, L., Bedoya, D., & Chew, E. (2022). Annotation and Analysis of Recorded Piano Performances on the Web. JAES Journal of the Audio Engineering Society, 70(11), 962-978. doi: 10.17743/jaes.2022.0057 Bedoya, D., Fyfe, L., & Chew, E. (2022). A Perceiver-Centered Approach for Representing and Annotating Prosodic Functions in Performed Music. Frontiers in psychology, 13. doi: 10.3389/fpsyg.2022.886570 Bedoya, D., et al. (2021). Even violins can cry: specifically vocal emotional behaviours also drive the perception of emotions in non-vocal music. Philosophical Transactions of the Royal Society B, 376(1840), 20200396. doi: 10.1098/rstb.2020.0396 For a full list, go to: Publications Skills Data Science Data wrangling and database management, statistical analysis, visualization Programming Python, Matlab, R, SQL, Elasticsearch, HTML-CSS & JavaScript Engineering sciences Acoustic measurements/analyses, computer music, audio signal processing Cognitive Science Designing experimental protocols, coordinating experiments Sound engineering Sound recording, editing, audio mixing, sound design, score editing Other LaTeX, Git, Bash, MS Office, image and video editing, vector graphics Languages Spanish Native French (read, written, and fluently spoken) + Level B2 Certificate (DELF) English (read, written, and fluently spoken) + Level B2 Certificate (ESPE, Ecuador)"
+    "page": "About",
+    "title": "Short bio (en)",
+    "parent": "",
+    "url": "about.html#bio-en",
+    "content": "Daniel Bedoya is a teacher/researcher with experience in music perception, acoustics, and data analysis. He conducted his doctoral research studying annotations of performed piano music through the musical prosody paradigm to explore structures in music performance. Originally from Ecuador, Daniel got his undergraduate degree in Sound and Acoustics Engineering at Universidad de las Américas (UDLA) in Quito. After working as an acoustic engineer, he obtained a Master's in higher education at ESPE. He taught at UDLA Quito from 2013 to 2016. Then, he moved to France, earning a Master's degree in computer science, acoustics, and signal processing (ATIAM) at Sorbonne Université and the Institut de Recherche et Coordination Acoustique/Musique (IRCAM). Interested in the disciplines of music perception and cognition, he has worked with the Perception and Sound Design (PDS) research team at IRCAM, looking at the relationship of music and emotions in the ERC project CREAM and exploring the influence of smiled speech perception in dyadic interactions in the REFLETS project, both under the supervision of Jean-Julien Aucouturier. In 2019, Daniel joined the ERC AdG project COSMOS and the Musical Representations (RepMus) research team at IRCAM as a doctoral student under the supervision of Elaine Chew, where he collaborated with a team exploring music structures shaped in performance through their analysis and manipulation. In his doctoral research, Daniel designed a citizen science annotation protocol and laboratory experiments to help understand musical structures created in performance. In addition, he analyzed the annotator's perception of musical structures with the CosmoNote web-based annotation platform. In 2022, Daniel joined the Conservatoire National des Arts et Métiers (CNAM) as a Temporary Teaching and Research Associate (ATER), where he completed his doctoral research and joined the teaching team. More specifically, his teaching work focused on acoustics and signal processing in four programs: the State Diploma in Audioprosthetics (CPDA), the Engineering Diploma in Aeronautics and Space (Aero), open distance learning (FOAD), and the French Institute of Industrial Refrigeration and Climatic Engineering (IFFI). From 2024 to 2026, Daniel was a postdoctoral researcher at the GERiiCO lab (University of Lille), working on data analysis for algorithmic fairness in music streaming platforms as part of the Fair MusE Horizon Europe project, assessing the equity and diversity of music streaming platforms by analyzing a large database of donated listening history events from users of the major music streaming platforms (Spotify, Apple Music, and YouTube Music). Since 2025, Daniel has worked as a part-time lecturer with the Faculty of Societies and Humanities at Université Paris Cité. He's taught courses related to web technologies in the UFR EILA (Department of Intercultural Studies and Applied Languages) for the Multilingual Technical Writing and Information Design (ReDDI) professional bachelor's and the Multilingual Technical Communication and User Experience (ComTEx) master's degree track."
   },
   {
-    "title": "Daniel Bedoya R. | Home",
-    "url": "index.html",
-    "headings": [
-      "Hi, I'm Daniel,"
-    ],
-    "content": "Hi, I'm Daniel, I have 10+ years of teaching experience in higher education, combined with research skills in data analysis, music information retrieval, music perception, and musical acoustics. I conducted my doctoral research at IRCAM studying annotations of performed piano music through the musical prosody paradigm to explore structures in music performance. I recently finished my Postdoctoral researcher contract at the GERiiCO lab (University of Lille), working on data analysis for algorithmic fairness in music streaming platforms with the Fair MusE project. daniel.bedoya [at] u-pariscite [dot] fr"
+    "page": "Résumé (CV)",
+    "title": "Résumé (CV)",
+    "parent": "",
+    "url": "cv.html#cv",
+    "content": ""
   },
   {
-    "title": "Publications | DBR",
-    "url": "publications.html",
-    "headings": [
-      "Academic publications",
-      "List of publications",
-      "Peer-reviewed Journals",
-      "Conference proceedings",
-      "Abstracts",
-      "In-review",
-      "Other",
-      "Academic profiles"
-    ],
-    "content": "Academic publications List of publications Peer-reviewed Journals Bedoya, D. Fyfe, L., & Chew, E. (2025). Science of music-based citizen science: How seeing influences hearing. PLoS One 20(9): e0325019. doi: 10.1371/journal.pone.0325019 Arias-Sarah, Bedoya, D., P., et al. (2024). Aligning the smiles of dating dyads causally increases attraction. Proceedings of the National Academy of Sciences, 121(45), e2400369121. doi: 10.1073/pnas.2400369121 Fyfe, L., Bedoya, D., & Chew, E. (2022). Annotation and Analysis of Recorded Piano Performances on the Web. JAES Journal of the Audio Engineering Society, 70(11), 962-978. doi: 10.17743/jaes.2022.0057 Bedoya, D., Fyfe, L., & Chew, E. (2022). A Perceiver-Centered Approach for Representing and Annotating Prosodic Functions in Performed Music. Frontiers in psychology, 13. doi: 10.3389/fpsyg.2022.886570 Bedoya, D., et al. (2021). Even violins can cry: specifically vocal emotional behaviours also drive the perception of emotions in non-vocal music. Philosophical Transactions of the Royal Society B, 376(1840), 20200396. doi: 10.1098/rstb.2020.0396 Conference proceedings Fyfe, L., Bedoya, D., & Chew, E. (2022). A Nutshell Guide to Annotating Recorded Piano Performances on the Web with CosmoNote. 7th International Web Audio Conference, Cannes, France. doi: 10.5281/zenodo.6769016 Fyfe, L., Bedoya, D., Guichaoua, C., & Chew, E. (2021) CosmoNote: A Web-based Citizen Science Tool for Annotating Music Performances. In Web Audio Conference. ISSN : 2663-5844. hal-03277421 Le Carrou, J.L., Bedoya, D., Mifune, M. F., & Le Bomin, S. (2018). Acoustique des harpes d'Afrique centrale : étude préliminaire. Congrès Français d'Acoustique CFA - Le Havre. hal-05554711 Bedoya, D. & Quintana, F. (2011). « Evaluación teórico-práctica de la percepción psicoacústica de niveles de sonoridad y de la estructura melódica en producciones de distintos géneros musicales ». SONAC, Numéro 2, pp. 5-10. ISSN : 1390-6348. hal-05555115 Abstracts Bedoya, D. Fyfe, L., & Chew, E. (2021, October). Towards a Set of Conventions for Representing and Annotating Musical Prosody [Conference presentation]. International Symposium on Performance Science (ISPS) 2021, Montreal, Canada. hal-03419378 In-review Bedoya, D., Henry, A., Sørensen, J. K., Holm, R., & Hernandes, S. A. (2025). Fairness in music information systems: from a process-oriented perspective to an outcome-oriented approach. Preprint available at SSRN 6156076 Other Bedoya, D., Fyfe, L., & Chew, E. (2022). Creating Experiments with Cosmonote: Advancing Web-Based Annotations for Performed Music. Proceedings of the 19th Sound and Music Computing Conference, Saint-Étienne, France. doi:10.5281/zenodo.6576284 Bedoya, D., Fyfe, L., & Chew, E. (2022, May) CosmoNote-enabled active listening and transcribing of expressive music structures, 2nd edition [Conference workshop]. Seventh International Conference on Technologies for Music Notation and Representation (TENOR) 2022, Marseille, France. hal-05485839 Bedoya, D., Fyfe, L., Guichaoua, C., & Chew, E. (2021, May) CosmoNote: Visualizing expressive music information layers and public engagement in annotating performed music structures [Poster session]. CitSciVirtual 2021. hal-03454713 Arias, P., Bedoya, D., Johansson, P., Hall, L., Aucouturier, J-J. (2021). Controlling dyadic interactions with real-time smile transformations. Society for Affective Science 2021 Conference, Virtual conference, France. hal-03207710 Academic profiles Google Scholar Profile: Daniel Bedoya ORCiD: 0000-0003-1245-8353 HAL Science ID: 749945 bibtex/RSS: Bibbase"
+    "page": "Résumé (CV)",
+    "title": "Work Experience",
+    "parent": "",
+    "url": "cv.html#work-experience",
+    "content": "2024-2026 Postdoctoral researcher - Fair MusE Project Gériico Laboratory, University of Lille 2022-2024 Assistant lecturer and researcher (ATER) Conservatoire national des arts et métiers (CNAM) LMSSC Laboratory 2019-2022 Doctoral contract ERC AdG COSMOS Project UMR9912-STMS Laboratory (IRCAM, SU, CNRS) 2018-2019 Research engineer Perception and Sound Design team (PDS), IRCAM 2018 (02-06) Research internship: Are musical emotions expressed in the same way as in speech? Perception and Sound Design team (PDS), IRCAM 2017 (05-07) Research internship: Acoustics of central African harps (Kundi project) Lutheries-Acoustique-Musique (LAM), Institut Jean le Rond d'Alembert 2013-2016 Assistant lecturer - Advanced Technical Degree in Recording and Music Production Universidad de Las Américas, Quito 2011-2013 Acoustical engineer Tecnologías acústicas del Ecuador S.A. (Tecnoakustiks)"
   },
   {
-    "title": "Research highlights | DBR",
-    "url": "research_highlights.html",
-    "headings": [
-      "Research Highlights",
-      "Annotations through the CosmoNote platform",
-      "Facial and linguistic emotional feedback",
-      "Emotional vocal cues applied to music",
-      "Acoustics of central African harps"
-    ],
-    "content": "Research Highlights Annotations through the CosmoNote platform Für Elise annotated example. CosmoNote is a web-based, highly customizable annotation platform created in the context of the COSMOS ERC project to engage in a large-scale collection of annotations and explorations of performed music, by applying the principles of citizen science to obtain high-quality annotation data for music expressivity. The annotation platform rests on four main pillars: its representations and visualizations (how annotators first encounter the music), its annotation types (the core communication channel connecting annotators and researchers), its intuitiveness (taking inspiration from familiar controls and interface), and its interactivity (e.g., zooming, selecting, editing, filtering). By analyzing the annotations collected with CosmoNote, we aimed to model and analyze performance decisions in order to aid in the understanding of expressive choices in musical performances and discover the vocabulary of performed musical structures. PhD manuscript: Capturing Musical Prosody Through Interactive Audio/Visual Annotations Facial and linguistic emotional feedback Dyadic interactions experimental protocol. The ANR project REFLETS studies the cognitive mechanisms involved in audiovisual feedback taking place on interactions with a mirror (where a subject hears and sees himself smiling) or with someone else (where the interlocutor can hear and see the first party smiling). We were working with real-time algorithms capable to learn a subject's facial features and vocal properties in order to transform the image and the sound on the output, notably in the form of a smile or a frown. This can be applied to an interactive paradigm in which dyads of participants have conversations with one another, while their voice and face is digitally modified to be more smiling, and test the effect that these cues have on various outcomes of the conversation. The main programming environments used for this task are Python and Max MSP. Emotional vocal cues applied to music Emotional transformations on a violin. This project explored whether musical emotions are perceived using the same acoustical cues as in speech. While this relationship has been thoroughly studied, there did not exist an experimental setup to manipulate music and speech equally. First, based on distinct signal processing algorithms (DAVID, ZIGGY, ANGUS), we selected and applied the following modifications on three perceptual dimensions: pitch (upwards, downwards and vibrato), spectral envelope (upwards and downwards) and roughness (amplitude modulation with generated subharmonics). We transformed 12 scream samples, the main vocals of 14 stem files, 14 recorded instrumental melodies and 14 recorded sentences. The stimuli were arranged into musical (melodies with and without musical background) and non-musical (speech, screams) conditions. Sixty-six participants listened to pairs of opposite transformations, and evaluated their perceived valence and arousal. The results validate the previous work done by the team concerning emotional speech and they indicate a link between acoustical properties and emotional perception in music. The effects were statistically significant throughout every acoustical transformation, even when applied to instrumental music. Master's manuscript: Les émotions sont-elles exprimées en musique de la même façon que dans la voix parlée ? Acoustics of central African harps African harps: Tsogho, Fang, Massango. As a part of the multidisciplinary project 'Kundi', we determined the acoustical properties of three harps of different Gabon ethnicities. Our main objective was to find descriptors which would allow the better understanding of their vibrational behavior, taking into account that researchers are often unable to study these type of instruments in playing conditions. This work explored three perspectives on the issue: First, an experimental modal analysis using the Least-Squares Complex Frequency-domain (LSCF) estimator and transfer function smoothing algorithms. Second, the analysis of the acceleration signals frequency responses. Third, a mobility measurement for all the strings of each harp. As a result of this approach, we found not only differences in the mean mobility and modal frequencies between harps with similar physical dimensions, but also an apparent non-linear behavior that suggests the harps mobility is influenced by the unconventional materials and techniques employed by the instrument maker. Master's manuscript: Acoustique des harpes d'Afrique centrale"
+    "page": "Résumé (CV)",
+    "title": "Education",
+    "parent": "",
+    "url": "cv.html#education",
+    "content": "2019-2023 PhD - Information and Communication Sciences STMS-UMR9912 Laboratory (IRCAM, Sorbonne Université, CNRS) Research topic: Representation and analysis of musical structure annotations Supervisor: Pr. Elaine Chew (KCL). Defense: October 2023 2017-2018 Master 2 - ATIAM (Acoustics, Signal processing and Computer Science applied to Music) Sorbonne Université, IRCAM, Télécom ParisTech 2016-2017 Master 1 - Engineering sciences, specializing in acoustics Sorbonne Université (previously Université Pierre et Marie Curie “UPMC”) 2013-2016 Master in Higher Education Universidad de las Fuerzas Armadas ESPE, Sangolquí—Ecuador 2006-2011 Sound and Acoustics Engineering Universidad de Las Américas (UDLA), Quito—Ecuador"
   },
   {
-    "title": "Teaching | DBR",
-    "url": "teaching.html",
-    "headings": [
-      "Teaching",
-      "[2025-2027] Université Paris Cité",
-      "[2022-2024] Conservatoire national des arts et métiers",
-      "[2021-2022] Sorbonne Université",
-      "[2013-2016] Universidad de Las Américas Quito"
-    ],
-    "content": "Teaching [2025-2027] Université Paris Cité Course Type # Students # Hours Technologies du Web LE4AE055 Lecture, Tutorial 15-17 48 Langages Numériques CH29E075 Lecture, Tutorial 10-15 48 Projet tutoré 3 CH29E095 Practical work 10-15 12 [2022-2024] Conservatoire national des arts et métiers Course Type # Students # Hours Introduction à l'Acoustique USAE1H Lecture, Tutorial 15-25 54.83 Physique 3, Traitement du Signal Audionumérique US462E Tutorial 25-35 16 Physique 2, Électroacoustique US4619 Tutorial 25-35 33 Physique 2, Acoustique des Salles US4618 Tutorial 25-35 33 Physique 1, Acoustique US4613 Tutorial 30-35 28 Travaux Pratiques d'Acoustique ACC115 Practical work 30-35 135.17 Psychouacoustique et acoustique des instruments de musique ACC117 Tutorial 9 17 Acoustique des salles et sonorisation ACC110 Tutorial 16 7 Introduction à la physique des vibrations et des ondes UTC403 Tutorial 56 15 Acoustique appliquée USFI0E Lecture, Tutorial 20-25 45 [2021-2022] Sorbonne Université Course Type # Students # Hours Élements de Programmation I LU1IN001 Practical work 31 15.8 [2013-2016] Universidad de Las Américas Quito Course Type # Students # Hours Fundamentals of Acoustics TGP210 | ACUS1010 Lecture, Tutorial 20-30 221 Fundamentals of Electricity and Electronics TGP120 | AUDI1110 Lecture, Tutorial 25-35 416 Applied Acoustics TGP310 | ACUS1110 Lecture, Tutorial 15-25 221"
+    "page": "Résumé (CV)",
+    "title": "Teaching",
+    "parent": "",
+    "url": "cv.html#teaching",
+    "content": "Date Institution Courses 2025-2026 Université Paris Cité LE4AE055 - Technologies du Web CH29E075 - Langages Numériques CH29E095 - Projet tutoré 3 2022-2024 Conservatoire national des arts et métiers USAE1H - Introduction à l'Acoustique US462E - Physique 3, Traitement du Signal Audionumérique US4619 - Physique 2, Électroacoustique US4618 - Physique 2, Acoustique des Salles US4613 - Physique 1, Acoustique ACC115 - Travaux Pratiques d'Acoustique ACC117 - Psychouacoustique et acoustique des instruments de musique ACC110 - Acoustique des salles et sonorisation UTC403 - Introduction à la physique des vibrations et des ondes USFI0E - Acoustique appliquée 2021-2022 Sorbonne Université LU1IN001 - Élements de Programmation I 2013-2016 Universidad de Las Américas Quito TGP210 | ACUS1010 - Principios de Acústica TGP120 | AUDI1110 - Principios de Electrotecnia TGP310 | ACUS1110 - Acústica Aplicada For more details, go to: Teaching"
+  },
+  {
+    "page": "Résumé (CV)",
+    "title": "Selected publications",
+    "parent": "",
+    "url": "cv.html#publications",
+    "content": "Bedoya, D. Fyfe, L., & Chew, E. (2025). Science of music-based citizen science: How seeing influences hearing. PLoS One 20(9): e0325019. doi: 10.1371/journal.pone.0325019 Fyfe, L., Bedoya, D., & Chew, E. (2022). Annotation and Analysis of Recorded Piano Performances on the Web. JAES Journal of the Audio Engineering Society, 70(11), 962-978. doi: 10.17743/jaes.2022.0057 Bedoya, D., Fyfe, L., & Chew, E. (2022). A Perceiver-Centered Approach for Representing and Annotating Prosodic Functions in Performed Music. Frontiers in psychology, 13. doi: 10.3389/fpsyg.2022.886570 Bedoya, D., et al. (2021). Even violins can cry: specifically vocal emotional behaviours also drive the perception of emotions in non-vocal music. Philosophical Transactions of the Royal Society B, 376(1840), 20200396. doi: 10.1098/rstb.2020.0396 For a full list, go to: Publications"
+  },
+  {
+    "page": "Résumé (CV)",
+    "title": "Skills",
+    "parent": "",
+    "url": "cv.html#skills",
+    "content": "Data Science Data wrangling and database management, statistical analysis, visualization Programming Python, Matlab, R, SQL, Elasticsearch, HTML-CSS & JavaScript Engineering sciences Acoustic measurements/analyses, computer music, audio signal processing Cognitive Science Designing experimental protocols, coordinating experiments Sound engineering Sound recording, editing, audio mixing, sound design, score editing Other LaTeX, Git, Bash, MS Office, image and video editing, vector graphics"
+  },
+  {
+    "page": "Résumé (CV)",
+    "title": "Languages",
+    "parent": "",
+    "url": "cv.html#languages",
+    "content": "Spanish Native French (read, written, and fluently spoken) + Level B2 Certificate (DELF) English (read, written, and fluently spoken) + Level B2 Certificate (ESPE, Ecuador)"
+  },
+  {
+    "page": "Daniel Bedoya R. | Home",
+    "title": "Hi, I'm Daniel,",
+    "parent": "",
+    "url": "index.html#hello",
+    "content": "I have 10+ years of teaching experience in higher education, combined with research skills in data analysis, music information retrieval, music perception, and musical acoustics. I conducted my doctoral research at IRCAM studying annotations of performed piano music through the musical prosody paradigm to explore structures in music performance. I recently finished my Postdoctoral researcher contract at the GERiiCO lab (University of Lille), working on data analysis for algorithmic fairness in music streaming platforms with the Fair MusE project. daniel.bedoya [at] u-pariscite [dot] fr"
+  },
+  {
+    "page": "Academic publications",
+    "title": "Academic publications",
+    "parent": "",
+    "url": "publications.html#publications",
+    "content": ""
+  },
+  {
+    "page": "Academic publications",
+    "title": "List of publications",
+    "parent": "",
+    "url": "publications.html#publications-list",
+    "content": ""
+  },
+  {
+    "page": "Academic publications",
+    "title": "Peer-reviewed Journals",
+    "parent": "List of publications",
+    "url": "publications.html#peer-reviewed-journals",
+    "content": "Bedoya, D. Fyfe, L., & Chew, E. (2025). Science of music-based citizen science: How seeing influences hearing. PLoS One 20(9): e0325019. doi: 10.1371/journal.pone.0325019 Arias-Sarah, Bedoya, D., P., et al. (2024). Aligning the smiles of dating dyads causally increases attraction. Proceedings of the National Academy of Sciences, 121(45), e2400369121. doi: 10.1073/pnas.2400369121 Fyfe, L., Bedoya, D., & Chew, E. (2022). Annotation and Analysis of Recorded Piano Performances on the Web. JAES Journal of the Audio Engineering Society, 70(11), 962-978. doi: 10.17743/jaes.2022.0057 Bedoya, D., Fyfe, L., & Chew, E. (2022). A Perceiver-Centered Approach for Representing and Annotating Prosodic Functions in Performed Music. Frontiers in psychology, 13. doi: 10.3389/fpsyg.2022.886570 Bedoya, D., et al. (2021). Even violins can cry: specifically vocal emotional behaviours also drive the perception of emotions in non-vocal music. Philosophical Transactions of the Royal Society B, 376(1840), 20200396. doi: 10.1098/rstb.2020.0396"
+  },
+  {
+    "page": "Academic publications",
+    "title": "Conference proceedings",
+    "parent": "List of publications",
+    "url": "publications.html#conference-proceedings",
+    "content": "Fyfe, L., Bedoya, D., & Chew, E. (2022). A Nutshell Guide to Annotating Recorded Piano Performances on the Web with CosmoNote. 7th International Web Audio Conference, Cannes, France. doi: 10.5281/zenodo.6769016 Fyfe, L., Bedoya, D., Guichaoua, C., & Chew, E. (2021) CosmoNote: A Web-based Citizen Science Tool for Annotating Music Performances. In Web Audio Conference. ISSN : 2663-5844. hal-03277421 Le Carrou, J.L., Bedoya, D., Mifune, M. F., & Le Bomin, S. (2018). Acoustique des harpes d'Afrique centrale : étude préliminaire. Congrès Français d'Acoustique CFA - Le Havre. hal-05554711 Bedoya, D. & Quintana, F. (2011). « Evaluación teórico-práctica de la percepción psicoacústica de niveles de sonoridad y de la estructura melódica en producciones de distintos géneros musicales ». SONAC, Numéro 2, pp. 5-10. ISSN : 1390-6348. hal-05555115"
+  },
+  {
+    "page": "Academic publications",
+    "title": "Abstracts",
+    "parent": "List of publications",
+    "url": "publications.html#abstracts",
+    "content": "Bedoya, D. Fyfe, L., & Chew, E. (2021, October). Towards a Set of Conventions for Representing and Annotating Musical Prosody [Conference presentation]. International Symposium on Performance Science (ISPS) 2021, Montreal, Canada. hal-03419378"
+  },
+  {
+    "page": "Academic publications",
+    "title": "In-review",
+    "parent": "List of publications",
+    "url": "publications.html#in-review",
+    "content": "Bedoya, D., Henry, A., Sørensen, J. K., Holm, R., & Hernandes, S. A. (2025). Fairness in music information systems: from a process-oriented perspective to an outcome-oriented approach. Preprint available at SSRN 6156076"
+  },
+  {
+    "page": "Academic publications",
+    "title": "Other",
+    "parent": "List of publications",
+    "url": "publications.html#other",
+    "content": "Bedoya, D., Fyfe, L., & Chew, E. (2022). Creating Experiments with Cosmonote: Advancing Web-Based Annotations for Performed Music. Proceedings of the 19th Sound and Music Computing Conference, Saint-Étienne, France. doi:10.5281/zenodo.6576284 Bedoya, D., Fyfe, L., & Chew, E. (2022, May) CosmoNote-enabled active listening and transcribing of expressive music structures, 2nd edition [Conference workshop]. Seventh International Conference on Technologies for Music Notation and Representation (TENOR) 2022, Marseille, France. hal-05485839 Bedoya, D., Fyfe, L., Guichaoua, C., & Chew, E. (2021, May) CosmoNote: Visualizing expressive music information layers and public engagement in annotating performed music structures [Poster session]. CitSciVirtual 2021. hal-03454713 Arias, P., Bedoya, D., Johansson, P., Hall, L., Aucouturier, J-J. (2021). Controlling dyadic interactions with real-time smile transformations. Society for Affective Science 2021 Conference, Virtual conference, France. hal-03207710"
+  },
+  {
+    "page": "Academic publications",
+    "title": "Academic profiles",
+    "parent": "",
+    "url": "publications.html#academic-profiles",
+    "content": "Google Scholar Profile: Daniel Bedoya ORCiD: 0000-0003-1245-8353 HAL Science ID: 749945 bibtex/RSS: Bibbase"
+  },
+  {
+    "page": "Research Highlights",
+    "title": "Research Highlights",
+    "parent": "",
+    "url": "research_highlights.html#research-highlights",
+    "content": ""
+  },
+  {
+    "page": "Research Highlights",
+    "title": "Annotations through the CosmoNote platform",
+    "parent": "",
+    "url": "research_highlights.html#cosmonote-annotations",
+    "content": "Für Elise annotated example. CosmoNote is a web-based, highly customizable annotation platform created in the context of the COSMOS ERC project to engage in a large-scale collection of annotations and explorations of performed music, by applying the principles of citizen science to obtain high-quality annotation data for music expressivity. The annotation platform rests on four main pillars: its representations and visualizations (how annotators first encounter the music), its annotation types (the core communication channel connecting annotators and researchers), its intuitiveness (taking inspiration from familiar controls and interface), and its interactivity (e.g., zooming, selecting, editing, filtering). By analyzing the annotations collected with CosmoNote, we aimed to model and analyze performance decisions in order to aid in the understanding of expressive choices in musical performances and discover the vocabulary of performed musical structures. PhD manuscript: Capturing Musical Prosody Through Interactive Audio/Visual Annotations"
+  },
+  {
+    "page": "Research Highlights",
+    "title": "Facial and linguistic emotional feedback",
+    "parent": "",
+    "url": "research_highlights.html#audiovisual-feedback",
+    "content": "Dyadic interactions experimental protocol. The ANR project REFLETS studies the cognitive mechanisms involved in audiovisual feedback taking place on interactions with a mirror (where a subject hears and sees himself smiling) or with someone else (where the interlocutor can hear and see the first party smiling). We were working with real-time algorithms capable to learn a subject's facial features and vocal properties in order to transform the image and the sound on the output, notably in the form of a smile or a frown. This can be applied to an interactive paradigm in which dyads of participants have conversations with one another, while their voice and face is digitally modified to be more smiling, and test the effect that these cues have on various outcomes of the conversation. The main programming environments used for this task are Python and Max MSP."
+  },
+  {
+    "page": "Research Highlights",
+    "title": "Emotional vocal cues applied to music",
+    "parent": "",
+    "url": "research_highlights.html#emotional-audio-transformations",
+    "content": "Emotional transformations on a violin. This project explored whether musical emotions are perceived using the same acoustical cues as in speech. While this relationship has been thoroughly studied, there did not exist an experimental setup to manipulate music and speech equally. First, based on distinct signal processing algorithms (DAVID, ZIGGY, ANGUS), we selected and applied the following modifications on three perceptual dimensions: pitch (upwards, downwards and vibrato), spectral envelope (upwards and downwards) and roughness (amplitude modulation with generated subharmonics). We transformed 12 scream samples, the main vocals of 14 stem files, 14 recorded instrumental melodies and 14 recorded sentences. The stimuli were arranged into musical (melodies with and without musical background) and non-musical (speech, screams) conditions. Sixty-six participants listened to pairs of opposite transformations, and evaluated their perceived valence and arousal. The results validate the previous work done by the team concerning emotional speech and they indicate a link between acoustical properties and emotional perception in music. The effects were statistically significant throughout every acoustical transformation, even when applied to instrumental music. Master's manuscript: Les émotions sont-elles exprimées en musique de la même façon que dans la voix parlée ?"
+  },
+  {
+    "page": "Research Highlights",
+    "title": "Acoustics of central African harps",
+    "parent": "",
+    "url": "research_highlights.html#acoustics-african-harps",
+    "content": "African harps: Tsogho, Fang, Massango. As a part of the multidisciplinary project 'Kundi', we determined the acoustical properties of three harps of different Gabon ethnicities. Our main objective was to find descriptors which would allow the better understanding of their vibrational behavior, taking into account that researchers are often unable to study these type of instruments in playing conditions. This work explored three perspectives on the issue: First, an experimental modal analysis using the Least-Squares Complex Frequency-domain (LSCF) estimator and transfer function smoothing algorithms. Second, the analysis of the acceleration signals frequency responses. Third, a mobility measurement for all the strings of each harp. As a result of this approach, we found not only differences in the mean mobility and modal frequencies between harps with similar physical dimensions, but also an apparent non-linear behavior that suggests the harps mobility is influenced by the unconventional materials and techniques employed by the instrument maker. Master's manuscript: Acoustique des harpes d'Afrique centrale"
+  },
+  {
+    "page": "Teaching",
+    "title": "Teaching",
+    "parent": "",
+    "url": "teaching.html#teaching",
+    "content": ""
+  },
+  {
+    "page": "Teaching",
+    "title": "[2025-2027] Université Paris Cité",
+    "parent": "",
+    "url": "teaching.html#u-paris-cite",
+    "content": "Course Type # Students # Hours Technologies du Web LE4AE055 Lecture, Tutorial 15-17 48 Langages Numériques CH29E075 Lecture, Tutorial 10-15 48 Projet tutoré 3 CH29E095 Practical work 10-15 12"
+  },
+  {
+    "page": "Teaching",
+    "title": "[2022-2024] Conservatoire national des arts et métiers",
+    "parent": "",
+    "url": "teaching.html#cnam",
+    "content": "Course Type # Students # Hours Introduction à l'Acoustique USAE1H Lecture, Tutorial 15-25 54.83 Physique 3, Traitement du Signal Audionumérique US462E Tutorial 25-35 16 Physique 2, Électroacoustique US4619 Tutorial 25-35 33 Physique 2, Acoustique des Salles US4618 Tutorial 25-35 33 Physique 1, Acoustique US4613 Tutorial 30-35 28 Travaux Pratiques d'Acoustique ACC115 Practical work 30-35 135.17 Psychouacoustique et acoustique des instruments de musique ACC117 Tutorial 9 17 Acoustique des salles et sonorisation ACC110 Tutorial 16 7 Introduction à la physique des vibrations et des ondes UTC403 Tutorial 56 15 Acoustique appliquée USFI0E Lecture, Tutorial 20-25 45"
+  },
+  {
+    "page": "Teaching",
+    "title": "[2021-2022] Sorbonne Université",
+    "parent": "",
+    "url": "teaching.html#sorbonne-universite",
+    "content": "Course Type # Students # Hours Élements de Programmation I LU1IN001 Practical work 31 15.8"
+  },
+  {
+    "page": "Teaching",
+    "title": "[2013-2016] Universidad de Las Américas Quito",
+    "parent": "",
+    "url": "teaching.html#udla-quito",
+    "content": "Course Type # Students # Hours Fundamentals of Acoustics TGP210 | ACUS1010 Lecture, Tutorial 20-30 221 Fundamentals of Electricity and Electronics TGP120 | AUDI1110 Lecture, Tutorial 25-35 416 Applied Acoustics TGP310 | ACUS1110 Lecture, Tutorial 15-25 221"
   }
 ]
