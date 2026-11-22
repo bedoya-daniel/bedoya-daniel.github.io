@@ -1,4 +1,4 @@
-/* Dependency-free search for a six-page static website. */
+/* Section-level search; no dependencies or external services. */
 (() => {
   "use strict";
 
@@ -9,7 +9,6 @@
   if (!input || !results || !status) return;
 
   // All HTML pages and search-index.json are in the same directory.
-  // Relative URLs also work for GitHub Pages project sites (/repository/).
   const indexURL = new URL("search-index.json", window.location.href);
   let indexPromise;
   let searchVersion = 0;
@@ -25,35 +24,34 @@
           return response.json();
         })
         .catch((error) => {
-          indexPromise = undefined; // Permit another attempt after a network error.
+          indexPromise = undefined; // A later keystroke can retry a failed fetch.
           throw error;
         });
     }
     return indexPromise;
   }
 
-  function findMatches(pages, query) {
+  function findMatches(sections, query) {
     const terms = normalize(query).trim().split(/\s+/).filter(Boolean);
     if (!terms.length) return [];
 
-    return pages
-      .map((page) => {
-        const title = normalize(page.title);
-        const headings = normalize(page.headings.join(" "));
-        const content = normalize(page.content);
-        // All query terms must occur, possibly in different fields.
-        if (!terms.every((term) =>
-          title.includes(term) || headings.includes(term) || content.includes(term)
-        )) return null;
-
+    return sections
+      .map((section) => {
+        // Match terms within ONE section rather than across the entire page.
+        const title = normalize(section.title);
+        const content = normalize(section.content);
+        if (!terms.every((term) => title.includes(term) || content.includes(term))) {
+          return null;
+        }
         const score = terms.reduce((total, term) =>
-          total + (title.includes(term) ? 10 : 0)
-                + (headings.includes(term) ? 5 : 0)
+          total + (title.includes(term) ? 5 : 0)
                 + (content.includes(term) ? 1 : 0), 0);
-        return { page, score };
+        return { section, score };
       })
       .filter(Boolean)
-      .sort((a, b) => b.score - a.score || a.page.title.localeCompare(b.page.title));
+      .sort((a, b) => b.score - a.score ||
+        a.section.page.localeCompare(b.section.page) ||
+        a.section.title.localeCompare(b.section.title));
   }
 
   function excerpt(content, query) {
@@ -70,18 +68,23 @@
     results.replaceChildren();
     status.textContent = `${matches.length} result${matches.length === 1 ? "" : "s"}`;
 
-    for (const { page } of matches) {
+    for (const { section } of matches) {
       const item = document.createElement("li");
       item.className = "search-result";
 
       const link = document.createElement("a");
-      link.href = new URL(page.url, indexURL).href;
-      link.textContent = page.title;
+      link.href = new URL(section.url, indexURL).href;
+      const sectionLabel = section.parent
+        ? `${section.parent} › ${section.title}` : section.title;
+      link.textContent = section.page === sectionLabel
+        ? sectionLabel : `${sectionLabel} — ${section.page}`;
+      item.append(link);
 
-      const summary = document.createElement("p");
-      summary.textContent = excerpt(page.content, query);
-
-      item.append(link, summary);
+      if (section.content) {
+        const summary = document.createElement("p");
+        summary.textContent = excerpt(section.content, query);
+        item.append(summary);
+      }
       results.append(item);
     }
   }
@@ -90,19 +93,18 @@
     const query = input.value.trim();
     const version = ++searchVersion;
     if (!query) {
-      dropdown.hidden = true;
+      if (dropdown) dropdown.hidden = true;
       results.replaceChildren();
       status.textContent = "";
       return;
     }
 
-    dropdown.hidden = false;
-
+    if (dropdown) dropdown.hidden = false;
     status.textContent = "Searching…";
     try {
-      const pages = await getIndex();
-      if (version !== searchVersion) return; // Ignore stale asynchronous responses.
-      showResults(findMatches(pages, query), query);
+      const sections = await getIndex();
+      if (version !== searchVersion) return;
+      showResults(findMatches(sections, query), query);
     } catch (error) {
       if (version !== searchVersion) return;
       results.replaceChildren();
@@ -111,5 +113,6 @@
     }
   });
 
+  if (dropdown) dropdown.hidden = true;
   status.textContent = "";
 })();
